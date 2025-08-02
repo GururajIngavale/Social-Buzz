@@ -55,3 +55,6 @@ How do you approach data-driven decision-making in your projects?
 
 Feel free to explore, fork the repo, and reach out for collaboration or feedback. 🤝
 
+<img width="1306" height="729" alt="image" src="https://github.com/user-attachments/assets/3afc2267-5dd3-4243-857e-609d4e8103fd" />
+
+
